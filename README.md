@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sushi-Mampfer
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning html and css.
-- 📫 You can reach me on discord under the name Sushi-Mampfer#8407.
+- 📫 You can reach me on discord under the name sushimampfer.
 
 <!---
 Sushi-Mampfer/Sushi-Mampfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
